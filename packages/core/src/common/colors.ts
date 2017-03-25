@@ -8,11 +8,11 @@
 export const Colors = {
     BLACK: "#10161A",
 
-    BLUE1: "#0E5A8A",
-    BLUE2: "#106BA3",
-    BLUE3: "#137CBD",
-    BLUE4: "#2B95D6",
-    BLUE5: "#48AFF0",
+    BLUE1: "#563E9C",
+    BLUE2: "#6344BC",
+    BLUE3: "#7351D4",
+    BLUE4: "#8464DD",
+    BLUE5: "#9C80EA",
 
     COBALT1: "#1F4B99",
     COBALT2: "#2458B3",
@@ -20,11 +20,11 @@ export const Colors = {
     COBALT4: "#4580E6",
     COBALT5: "#669EFF",
 
-    DARK_GRAY1: "#182026",
-    DARK_GRAY2: "#202B33",
-    DARK_GRAY3: "#293742",
-    DARK_GRAY4: "#30404D",
-    DARK_GRAY5: "#394B59",
+    DARK_GRAY1: "#0B1B2E",
+    DARK_GRAY2: "#172B42",
+    DARK_GRAY3: "#243C56",
+    DARK_GRAY4: "#35536F",
+    DARK_GRAY5: "#446583",
 
     FOREST1: "#1D7324",
     FOREST2: "#238C2C",
@@ -44,11 +44,11 @@ export const Colors = {
     GRAY4: "#A7B6C2",
     GRAY5: "#BFCCD6",
 
-    GREEN1: "#0A6640",
-    GREEN2: "#0D8050",
-    GREEN3: "#0F9960",
-    GREEN4: "#15B371",
-    GREEN5: "#3DCC91",
+    GREEN1: "#277A2E",
+    GREEN2: "#348A3B",
+    GREEN3: "#419D48",
+    GREEN4: "#50B458",
+    GREEN5: "#6ACB72",
 
     INDIGO1: "#5642A6",
     INDIGO2: "#634DBF",
@@ -56,11 +56,11 @@ export const Colors = {
     INDIGO4: "#9179F2",
     INDIGO5: "#AD99FF",
 
-    LIGHT_GRAY1: "#CED9E0",
-    LIGHT_GRAY2: "#D8E1E8",
-    LIGHT_GRAY3: "#E1E8ED",
-    LIGHT_GRAY4: "#EBF1F5",
-    LIGHT_GRAY5: "#F5F8FA",
+    LIGHT_GRAY1: "#BFBDAC",
+    LIGHT_GRAY2: "#CAC7BA",
+    LIGHT_GRAY3: "#D7D4C7",
+    LIGHT_GRAY4: "#E3E1D7",
+    LIGHT_GRAY5: "#EBEAE4",
 
     LIME1: "#728C23",
     LIME2: "#87A629",
@@ -110,5 +110,5 @@ export const Colors = {
     VIOLET4: "#A854A8",
     VIOLET5: "#C274C2",
 
-    WHITE: "#FFFFFF",
+    WHITE: "#FDFDFA",
 };
